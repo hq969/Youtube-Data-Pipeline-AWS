@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/Icon.png' width=430 height=270 >
+<img src='https://github.com/hq969/Youtube-Data-Pipeline-AWS/blob/main/assets/Icon.png' width=430 height=270 >
 </p>
 
 ---
@@ -78,21 +78,21 @@ To build this project, the following tools were used:
 Following is the architecture of the project.
 
 <p align='center'>
-  <img src='https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/AWS_Python_ETL_Project_Architecture.png' height=385 width=650>
+  <img src='https://github.com/hq969/Youtube-Data-Pipeline-AWS/blob/main/assets/AWS_Python_ETL_Project_Architecture.png' height=385 width=650>
 </p>  
 
 ## Dashboard
 
-Access simplified dashboard from <a href='https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/dashboard.pdf'>here</a>.
+Access simplified dashboard from <a href='https://github.com/hq969/Youtube-Data-Pipeline-AWS/blob/main/assets/dashboard.pdf'>here</a>.
 
 
 ## Screenshots
 
 Following are project execution screenshots from AWS portal.
 
-<img src="https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/ss1.png" width=900 height=400>
+<img src="https://github.com/hq969/Youtube-Data-Pipeline-AWS/blob/main/assets/ss1.png" width=900 height=400>
 <br>
-<img src="https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/ss2.png" width=900 height=400>
+<img src="https://github.com/hq969/Youtube-Data-Pipeline-AWS/blob/main/assets/ss2.png" width=900 height=400>
 
 ## Support
 
@@ -113,8 +113,8 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 
 <!--Profile Link-->
-[linkedin]: https://www.linkedin.com/in/waqargul
-[gmail]: mailto:waqargul6@gmail.com
+[linkedin]: https://www.linkedin.com/in/harsh-sonkar-232573250/
+[gmail]: contact.harshsonkar@gmail.com
 
 <!--Logo Link -->
 [linkedinbadge]: https://img.shields.io/badge/waqargul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
