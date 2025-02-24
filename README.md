@@ -117,5 +117,5 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 [gmail]: contact.harshsonkar@gmail.com
 
 <!--Logo Link -->
-[linkedinbadge]: https://img.shields.io/badge/waqargul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedinbadge]: https://img.shields.io/badge/hq969ul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [gmailbadge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
